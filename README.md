@@ -1,11 +1,6 @@
-# Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+# TaskBridge
 
-![image](https://github.com/AntonioErdeljac/next13-trello/assets/23248726/fd260249-82fa-4588-a67a-69bb4eb09067)
-
-
-This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=pRybm9lXW2c)
+TaskBridge is a dynamic project management application designed to streamline and enhance the workflow of organizations across various industries. With its intuitive interface and robust features, TaskBridge offers a comprehensive solution for managing projects, tasks, and collaborations effectively.
 
 Key Features:
 - Auth 
@@ -33,7 +28,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-trello.git
+git clone https://github.com/rishabhverma54321/TaskBridge.git
 ```
 
 ### Install packages
